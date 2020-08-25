@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /translate
+  port: 9999
+
