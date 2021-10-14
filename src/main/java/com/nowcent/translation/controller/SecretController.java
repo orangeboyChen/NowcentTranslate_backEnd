@@ -28,8 +28,8 @@ import java.util.Base64;
 @RestController
 public class SecretController {
 
-    private String APP_ID = "20200803000532380";
-    private String SECRET_KEY = "VQoeTSBUg1YkptcUNeLr";
+    private String APP_ID = "";
+    private String SECRET_KEY = "";
 
     private final Logger logger = LoggerFactory.getLogger(getClass());
 
